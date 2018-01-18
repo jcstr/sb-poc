@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.x51v4n.labs.dev.NbSpringbootDockerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.031 sec - in com.x51v4n.labs.dev.NbSpringbootDockerApplicationTests
